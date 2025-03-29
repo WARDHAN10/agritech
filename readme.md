@@ -1,4 +1,4 @@
-# Checkout Kata - Python CLI
+# AgriTech - Python CLI
 
 This project is a Python CLI application for the Given problem. It is containerized using Docker.
 
@@ -11,10 +11,10 @@ cd AGRITECH
 ```
 ### Clone the Repository
 ```sh
-    docker build -t agriTech .
+docker build -t agriTech .
 ```
 ### Run the Docker Container
 
 ```sh
-      docker run -it agriTech
+docker run -it agriTech
 ```
