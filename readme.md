@@ -10,9 +10,11 @@ git clone <repo-url>
 cd AGRITECH
 ```
 ### Clone the Repository
-```docker build -t agriTech .
+```sh
+    docker build -t agriTech .
 ```
 ### Run the Docker Container
 
-```  docker run -it agriTech
+```sh
+      docker run -it agriTech
 ```
